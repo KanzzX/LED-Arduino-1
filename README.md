@@ -6,3 +6,4 @@ Lampu LED dapat menyala secara bergantian
 
 Urutan lampunya seperti lampu lalu lintas.
 
+![Screen Shot Projek LED](https://github.com/KanzzX/LED-Arduino-1/blob/main/screenshot/image.png?raw=true)
